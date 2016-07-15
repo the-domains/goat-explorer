@@ -1,0 +1,14 @@
+layout_spectrum: 0.7698507171589881
+typography_spectrum: 0.18859243905171752
+color:
+  brandStrength: 0.3700299428310245
+  lightness: 0.6140887090004981
+  saturation: 0.8687612263020128
+  rhythmicContrast: 0.8965027842205018
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Goat Explorer
